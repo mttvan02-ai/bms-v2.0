@@ -2,3 +2,8 @@
 .env
 *.env
 credentials.env
+# AI tool / local config
+.claude/
+
+# Playwright MCP runtime
+.playwright-mcp/
