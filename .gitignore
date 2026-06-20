@@ -1,0 +1,4 @@
+# environment files (KHÔNG commit credentials)
+.env
+*.env
+credentials.env
